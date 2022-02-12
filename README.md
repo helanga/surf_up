@@ -18,7 +18,7 @@
 
 - According to above 2 tables, the minimum temperature in month of June is 64F and December 56F .
 Keep in mind water temperature is typically about two months behind air temperature. Winter surfing is generally done in water below 50°F.
-Since minimum temperature in December is 56F, Oha can run his shop even in December.
+Since minimum temperature in December is 56F, W. Avy  can run his shop even in December.
 
 ##### Comparison of mean:
 
