@@ -9,5 +9,6 @@ June and December months temperature Summery Statistics
 
 Bar graphs for June and Deceember tempratures
 
+![](Resources/jenebar.PNG)  
 
 ## Summary
