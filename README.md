@@ -38,7 +38,10 @@ As it has only 3 degrees different, Oha can get considerable income even in mont
 
 Query to calculate June month station wise min,max and average temperatures
 
+![](Resources/minmaxjuneQ.PNG)
+
 Query to calculate December month station wise min,max and average temperatures
 
+![](Resources/minmaxdecQ.PNG)
 Outputs:
 
