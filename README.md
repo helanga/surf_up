@@ -6,8 +6,11 @@
 
 ### Diliverable 1
 
+![](Resources/dili1Q.PNG)
 
 ### Diliverable 2
+
+![](Resources/dili2Q.PNG)
 
 
 ### June and December months temperature Summery Statistics
