@@ -43,5 +43,7 @@ Query to calculate June month station wise min,max and average temperatures
 Query to calculate December month station wise min,max and average temperatures
 
 ![](Resources/minmaxdecQ.PNG)
+
 Outputs:
 
+![](Resources/minmaxjuneO.PNG)   ![](Resources/minmaxdecO.PNG)
