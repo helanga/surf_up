@@ -3,7 +3,11 @@
 ## Overview of the statistical analysis
 
 ## Results
-Summery Statistics for June Temperature:                  Summery Statistics for December Temperature:
+June and December months temperature Summery Statistics
 
-![](images/retirement_titlesQ.PNG)
+![](Resources/Junedsc.PNG)   ![](Resources/Decdsc.PNG)
+
+Bar graphs for June and Deceember tempratures
+
+
 ## Summary
