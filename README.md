@@ -56,4 +56,4 @@ To make a best decision ,I did following to extra queries:
    
  2) Output for  June and December  months station wise min,max and average percipitation queries:
  
-   ![](Resources/avgpercjune.PNG)     ![](Resources/avgpercdec.PNG)
+   ![](Resources/avgpercjune.PNG)     ![](Resources/avgpercpdec.PNG)
