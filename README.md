@@ -2,6 +2,14 @@
 
 ## Overview of the statistical analysis
 
+### Programming Features and databases
+ - Data base: hawaiii.sqlite
+ 
+ - Programming Features: 
+
+ - Tools:pandas,SQLAlchemy
+
+ - Software :SQlite,Python,Jupyter Notebook
 ## Results
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the  June and December months and generate the summary statistics.
