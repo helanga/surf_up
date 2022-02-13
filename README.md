@@ -62,3 +62,9 @@ To make a best decision for invester W. Avy ,I did following to extra queries:
  2) Output for  June and December  months station wise min,max and average percipitation queries:
  
    ![](Resources/avgpercjune.PNG)     ![](Resources/avgpercpdec.PNG)
+   
+   From looking at above outputs can get clear idea about how station wise temperature\percipitation vary in summer(June) and winter (December)months.
+   
+   Surfing is usually best when it's wind-free so other than temprature and percipititation data,my suggestion is  if can have data about wind conditions it will also help.
+   
+   
