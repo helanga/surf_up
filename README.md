@@ -4,7 +4,7 @@
 
 ## Results
 
-
+Using Python, Pandas functions and methods, and SQLAlchemy, I filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the  June and December months and generate the summary statistics.
 
 ### June and December months temperature Summery Statistics
 
