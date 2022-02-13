@@ -1,4 +1,9 @@
 # Surf_up
+W. Avy the investor who is famous for his love of surfing going to invest for a Surfn'Shake shop serving surfboards and ice cream to locals, tourists in Hawaii.He invested in a surf shop early in his career. However he didn't ask for any weather analysis and that early venture was rained out of existence.
+
+W.Avy knows I've been learning how to properly analyze data and asks if you can run some analysis on a weather dataset he has from the very island where  like to open the shop in beautiful Ohau.
+
+First part of analysis completed by analyzing and plotting 12 months precipitation levels. Now he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
 ## Overview of the statistical analysis
 
