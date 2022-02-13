@@ -47,12 +47,17 @@ As it has only 3 degrees different, Oha can get considerable income even in mont
 ![](Resources/jenebar.PNG)  ![](Resources/decbar.PNG)
 
 ## Summary
+According to the above two summery statistics and bar graphs there is no significant temperature when concidering December and June data sets.
+so we can say considering temperautre factor for summer months(June) and winter months(December),bussiness is sutainable year-round.
 
 To make a best decision for invester W. Avy ,I did following to extra queries: 
+
 1) Output for  June and December  months station wise min,max and average temperature queries:
 
    
    ![](Resources/minmaxjuneO.PNG)   ![](Resources/minmaxdecO.PNG)
+   
+   Not only temperature we should also consider percipitation factor.
    
  2) Output for  June and December  months station wise min,max and average percipitation queries:
  
