@@ -48,7 +48,7 @@ As it has only 3 degrees different, Oha can get considerable income even in mont
 
 ## Summary
 
-To make a best decision ,I did following to extra queries: 
+To make a best decision for invester W. Avy ,I did following to extra queries: 
 1) Output for  June and December  months station wise min,max and average temperature queries:
 
    
