@@ -9,9 +9,9 @@ First part of analysis completed by analyzing and plotting 12 months precipitati
 
 ### Programming Features and databases
 
- - Data base: hawaiii.sqlite
+ - Data base: hawaii.sqlite
  
- - Programming Files: 
+ - Programming Files: SurfsUp_Challenge.ipynb
 
  - Tools:pandas,SQLAlchemy
 
