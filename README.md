@@ -54,7 +54,7 @@ As it has only 3 degrees different, Oha can get considerable income even in mont
 ## Summary
 According to the above two summery statistics and bar graphs there is no significant temperature different in the months of June and December data sets. Considering temperature factor for summer months (June) and winter months (December), the business will be sustainable in year-round.
 
-To make a best decision geographically ,I did below extra queries give idea how teprature and percipitation recorded station wise
+To make a best decision geographically ,I did below extra queries give idea how teprature and percipitation recorded station wise.
 
 1) Output for  June and December  months station wise min,max and average temperature queries:
 
