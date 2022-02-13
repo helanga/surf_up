@@ -1,9 +1,9 @@
 # Surf_up
-W. Avy the investor who is famous for his love of surfing going to invest for a Surfn'Shake shop serving surfboards and ice cream to locals, tourists in Hawaii.He invested in a surf shop early in his career. However he didn't ask for any weather analysis and that early venture was rained out of existence.
+W. Avy, an investor, who is famous for his love of surfing going to invest for a Surfn'Shake shop selling surfboards and ice cream to locals, tourists in Hawaii. He invested in a surf shop early in his career. However, he didn't ask for any weather analysis and that early venture was rained out of existence.
 
-W.Avy knows I've been learning how to properly analyze data and asks if you can run some analysis on a weather dataset he has from the very island where  like to open the shop in beautiful Ohau.
+W.Avy knows I've been learning how to properly analyze data and asks if I can run some analysis on a weather dataset he has from the very island where like to open the shop in beautiful Ohau.
 
-First part of analysis completed by analyzing and plotting 12 months precipitation levels. Now he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
+First part of analysis completed by analyzing and plotting 12 months precipitation levels. Now he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine the surf and ice cream business is sustainable or not in year-round.
 
 ## Overview of the statistical analysis
 
@@ -52,10 +52,9 @@ As it has only 3 degrees different, Oha can get considerable income even in mont
 ![](Resources/jenebar.PNG)  ![](Resources/decbar.PNG)
 
 ## Summary
-According to the above two summery statistics and bar graphs there is no significant temperature when concidering December and June data sets.
-so we can say considering temperautre factor for summer months(June) and winter months(December),bussiness is sutainable year-round.
+According to the above two summery statistics and bar graphs there is no significant temperature different in the months of June and December data sets. Considering temperature factor for summer months (June) and winter months (December), the business will be sustainable in year-round.
 
-To make a best decision for invester W. Avy ,I did following to extra queries: 
+To make a best decision for invester W. Avy ,I did below extra queries: 
 
 1) Output for  June and December  months station wise min,max and average temperature queries:
 
@@ -68,8 +67,8 @@ To make a best decision for invester W. Avy ,I did following to extra queries:
  
    ![](Resources/avgpercjune.PNG)     ![](Resources/avgpercpdec.PNG)
    
-   From looking at above outputs can get clear idea about how station wise temperature\percipitation vary in summer(June) and winter (December)months.
+   From looking at above outputs, investor can get a clear idea about how station wise temperature\ precipitation vary in summer (June) and winter (December) months.
    
-   Surfing is usually best when it's wind-free so other than temprature and percipititation data,my suggestion is  if can have data about wind conditions it will also help.
+Surfing is usually best when it's wind-free, so if we can have data about wind conditions it will help for more accurate analysis 
    
    
