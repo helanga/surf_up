@@ -3,7 +3,7 @@ W. Avy, an investor, who is famous for his love of surfing going to invest for a
 
 W.Avy knows I've been learning how to properly analyze data and asks if I can run some analysis on a weather dataset he has from the very island where like to open the shop in beautiful Ohau.
 
-First part of analysis completed by analyzing and plotting 12 months precipitation levels. Now he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine the surf and ice cream business is sustainable or not in year-round.
+First part of analysis completed by analyzing and plotting 12 months precipitation levels. Now he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine the surf and ice cream business is sustainable or not in year-round.nn
 
 ## Overview of the statistical analysis
 
